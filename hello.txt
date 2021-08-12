@@ -22,3 +22,4 @@ version 2
 version 3
 master version 3
 hot-fix version 4
+github version 5
