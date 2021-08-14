@@ -24,3 +24,4 @@ master version 3
 hot-fix version 4
 github version 5
 version 6
+version 7
